@@ -22,7 +22,6 @@
 <img align="left" title="javascript" alt="javascript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />
 <img align="left" title="java" alt="java" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />
 <img align="left" title="python" alt="python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />
-<img align="left" title="ruby" alt="ruby" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ruby.svg" />
 <img align="left" title="ocaml" alt="ocaml" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ocaml.svg" />
 <img align="left" title="C" alt="c" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/c.svg" />
 <img align="left" title="C++" alt="cplusplus" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" />
