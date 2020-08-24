@@ -13,7 +13,7 @@
 
 <br /> 
 
-[website]: https://devpost.com/htetmyataung
+[website]: https://denteyon.github.io
 [email]: mailto:htetmyataung2027@gmail.com
 [linkedin]: https://linkedin.com/in/htetmyataung
 
