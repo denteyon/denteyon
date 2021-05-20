@@ -4,14 +4,14 @@
 - 🔊 Pronounces name TET-myat AHNG
 - 🔭 I’m currently working on my interviewing skills
 - 🌱 I’m currently learning distributed systems
-- 👯 I’m looking for someone to collaborate on an AR app
+- 👯 I’m looking for someone to collaborate on an react frontend app
 <br/>
 
 ### Connect with me:
 
 <p align="start">
 <a href="https://denteyon.github.io"><img src="https://img.shields.io/badge/Website-757575?style=flat-square&logo=spyder-ide&logoColor=white"/></a>
-<a href="https://devpost.com/htetmyataung"><img src="https://img.shields.io/badge/Devpost-003E54?style=flat-square&logo=devpost&logoColor=white"/></a>
+<!-- <a href="https://devpost.com/htetmyataung"><img src="https://img.shields.io/badge/Devpost-003E54?style=flat-square&logo=devpost&logoColor=white"/></a> -->
 <a href="mailto:htetmyataung2027@gmail.com"><img src="https://img.shields.io/badge/Email-5C5543?style=flat-square&logo=minutemailer&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/htetmyataung"><img src="https://img.shields.io/badge/Linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
 </p>
@@ -21,7 +21,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat-square&logo=Java)
 ![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)
-![OCaml](https://img.shields.io/badge/Ocaml-EC6813?style=flat-square&logo=ocaml&logoColor=white)
+![OCaml](https://img.shields.io/badge/OCaml-EC6813?style=flat-square&logo=ocaml&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 <br/>
