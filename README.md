@@ -4,7 +4,7 @@
 - 🔊 Pronounces name TET-myat AHNG
 - 🔭 I’m currently working on my interviewing skills
 - 🌱 I’m currently learning distributed systems
-- 👯 I’m looking for someone to collaborate on an react frontend app
+- 👯 I’m looking for someone to collaborate on a react frontend app
 <br/>
 
 ### Connect with me:
