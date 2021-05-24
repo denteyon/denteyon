@@ -1,5 +1,4 @@
 ## Hi there, I'm Htet Myat Aung. You can call me AHNG. 👋
-<hr/>
 
 - 🔊 Pronounces name TET-myat AHNG
 - 🔭 I’m currently working on my interviewing skills
