@@ -1,7 +1,7 @@
 ## Hi there, I'm Htet Myat Aung. You can call me AHNG. 👋
 
 - 🔊 Pronounces name TET-myat AHNG
-- 🔭 I’m currently working on my interviewing skills
+- 🔭 I’m currently working on my interview skills
 - 🌱 I’m currently learning infra
 - 👯 I’m looking for someone to collaborate on a react frontend app
 <br/>
