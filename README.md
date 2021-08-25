@@ -6,6 +6,11 @@
 - 👯 I’m looking for someone to collaborate on a react frontend app
 <br/>
 
+Previously, I’ve worked at…
+- [Coinbase](https://www.coinbase.com), building CDC pipelines for faster ETL
+- [Nexlabs](https://www.nexlabs.co), implementing a payment hub for [an ecommerce platform](https://fastforwardmyanmar.com)
+- [Expa.ai](https://expa.ai), developing an analytics service for actionable insights
+
 ### Connect with me:
 
 <p align="start">
@@ -22,7 +27,8 @@
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat-square&logo=Java)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![OCaml](https://img.shields.io/badge/OCaml-EC6813?style=flat-square&logo=ocaml&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 <br/>
 
 ### Technologies ###
