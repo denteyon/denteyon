@@ -7,7 +7,7 @@
 <br/>
 
 Previously, I’ve worked at…
-- [Coinbase](https://www.coinbase.com), building CDC pipelines for faster ETL
+- [Coinbase](https://www.coinbase.com), building CDC pipelines for faster ETL cases
 - [Nexlabs](https://www.nexlabs.co), implementing a payment hub for [an ecommerce platform](https://fastforwardmyanmar.com)
 - [Expa.AI](https://expa.ai), developing an analytics service for actionable insights
 
